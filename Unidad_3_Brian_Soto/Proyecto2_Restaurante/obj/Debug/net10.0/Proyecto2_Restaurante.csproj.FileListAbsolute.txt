@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto2_Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto2_Restaurante.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto2_Restaurante.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto2_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\bin\Debug\net10.0\Proyecto2_Restaurante.exe
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\bin\Debug\net10.0\Proyecto2_Restaurante.deps.json
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\bin\Debug\net10.0\Proyecto2_Restaurante.runtimeconfig.json
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\bin\Debug\net10.0\Proyecto2_Restaurante.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\bin\Debug\net10.0\Proyecto2_Restaurante.dll
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\bin\Debug\net10.0\Proyecto2_Restaurante.pdb
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto2_Restaurante.dll
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\refint\Proyecto2_Restaurante.dll
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto2_Restaurante.pdb
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto2_Restaurante.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\ref\Proyecto2_Restaurante.dll
+C:\Users\Usuario\source\repos\Proyecto2_Restaurante\obj\Debug\net10.0\Proyecto.9092DB11.Up2Date

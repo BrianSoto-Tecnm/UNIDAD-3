@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\bin\Debug\net10.0\Proyecto3_llamadas.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\bin\Debug\net10.0\Proyecto3_llamadas.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\bin\Debug\net10.0\Proyecto3_llamadas.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\bin\Debug\net10.0\Proyecto3_llamadas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\bin\Debug\net10.0\Proyecto3_llamadas.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\bin\Debug\net10.0\Proyecto3_llamadas.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto3_llamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto3_llamadas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto3_llamadas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto3_llamadas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto3_llamadas.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\refint\Proyecto3_llamadas.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto3_llamadas.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto3_llamadas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\ref\Proyecto3_llamadas.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Proyecto3_llamadas\obj\Debug\net10.0\Proyecto.8EEF0B54.Up2Date

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|c:\\users\\usuario\\source\\repos\\proyecto1_sistema_ gestion_clinica\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|c:\\users\\usuario\\source\\repos\\proyecto1_sistema_ gestion_clinica\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|c:\\users\\usuario\\source\\repos\\proyecto1_sistema_ gestion_clinica\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|solutionrelative:nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|c:\\users\\usuario\\source\\repos\\proyecto1_sistema_ gestion_clinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA74514-F9E0-611B-CD52-B1D078F3A714}|Proyecto1_Sistema_ gestion_clinica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Cola.cs",
+              "RelativeDocumentMoniker": "Cola.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Cola.cs",
+              "RelativeToolTip": "Cola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:42:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:38:13.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Nodo.cs",
+              "RelativeDocumentMoniker": "Nodo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Nodo.cs",
+              "RelativeToolTip": "Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:29:04.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto1_Sistema_ gestion_clinica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:38:20.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
