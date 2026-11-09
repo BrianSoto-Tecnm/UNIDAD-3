@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\bin\Debug\net10.0\suma de los numeros.exe
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\bin\Debug\net10.0\suma de los numeros.deps.json
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\bin\Debug\net10.0\suma de los numeros.runtimeconfig.json
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\bin\Debug\net10.0\suma de los numeros.dll
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\bin\Debug\net10.0\suma de los numeros.pdb
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de los numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de los numeros.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de los numeros.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de los numeros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de los numeros.dll
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\refint\suma de los numeros.dll
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de los numeros.pdb
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de los numeros.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\ref\suma de los numeros.dll
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\bin\Debug\net10.0\suma de los numeros.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\3.Suma de 1 hasta n Directa\obj\Debug\net10.0\suma de .B4C4BC1E.Up2Date

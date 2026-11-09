@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\6.Suma de digitos Directa\obj\Debug\net10.0\Suma digitos de un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\6.Suma de digitos Directa\obj\Debug\net10.0\Suma digitos de un numero.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\6.Suma de digitos Directa\obj\Debug\net10.0\Suma digitos de un numero.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\6.Suma de digitos Directa\obj\Debug\net10.0\Suma digitos de un numero.csproj.CoreCompileInputs.cache

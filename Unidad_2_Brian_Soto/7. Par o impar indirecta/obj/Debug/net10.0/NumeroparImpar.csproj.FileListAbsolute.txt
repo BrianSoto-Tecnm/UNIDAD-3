@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\NumeroparImpar\bin\Debug\net10.0\NumeroparImpar.exe
+C:\Users\Usuario\source\repos\NumeroparImpar\bin\Debug\net10.0\NumeroparImpar.deps.json
+C:\Users\Usuario\source\repos\NumeroparImpar\bin\Debug\net10.0\NumeroparImpar.runtimeconfig.json
+C:\Users\Usuario\source\repos\NumeroparImpar\bin\Debug\net10.0\NumeroparImpar.dll
+C:\Users\Usuario\source\repos\NumeroparImpar\bin\Debug\net10.0\NumeroparImpar.pdb
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\NumeroparImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\NumeroparImpar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\NumeroparImpar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\NumeroparImpar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\NumeroparImpar.dll
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\refint\NumeroparImpar.dll
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\NumeroparImpar.pdb
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\NumeroparImpar.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\ref\NumeroparImpar.dll
+C:\Users\Usuario\source\repos\NumeroparImpar\obj\Debug\net10.0\Numeropa.F22098D4.Up2Date

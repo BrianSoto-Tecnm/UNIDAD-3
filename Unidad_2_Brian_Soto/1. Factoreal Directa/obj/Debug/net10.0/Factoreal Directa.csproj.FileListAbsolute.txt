@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Factoreal Directa\bin\Debug\net10.0\Factoreal Directa.exe
+C:\Users\Usuario\source\repos\Factoreal Directa\bin\Debug\net10.0\Factoreal Directa.deps.json
+C:\Users\Usuario\source\repos\Factoreal Directa\bin\Debug\net10.0\Factoreal Directa.runtimeconfig.json
+C:\Users\Usuario\source\repos\Factoreal Directa\bin\Debug\net10.0\Factoreal Directa.dll
+C:\Users\Usuario\source\repos\Factoreal Directa\bin\Debug\net10.0\Factoreal Directa.pdb
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factoreal Directa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factoreal Directa.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factoreal Directa.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factoreal Directa.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factoreal Directa.dll
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\refint\Factoreal Directa.dll
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factoreal Directa.pdb
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factoreal Directa.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\ref\Factoreal Directa.dll
+C:\Users\Usuario\source\repos\Factoreal Directa\obj\Debug\net10.0\Factorea.6F7A52E6.Up2Date

@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\Invertir un numero entero\obj\Debug\net10.0\Invertir un numero entero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Invertir un numero entero\obj\Debug\net10.0\Invertir un numero entero.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Invertir un numero entero\obj\Debug\net10.0\Invertir un numero entero.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Invertir un numero entero\obj\Debug\net10.0\Invertir un numero entero.csproj.CoreCompileInputs.cache

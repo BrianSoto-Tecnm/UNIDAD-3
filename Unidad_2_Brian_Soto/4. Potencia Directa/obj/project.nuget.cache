@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TifoA4Cv0bo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Potencia\\Potencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.5\\microsoft.windowsdesktop.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.5\\microsoft.netcore.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.5\\microsoft.aspnetcore.app.ref.10.0.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.5\\microsoft.netcore.app.host.win-x64.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
