@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\9.Suma mediante dos metodos Indirecta\\Recursividad indirecta.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\9.Suma mediante dos metodos Indirecta\\Recursividad indirecta.csproj",
       "projectName": "Recursividad indirecta",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\9.Suma mediante dos metodos Indirecta\\Recursividad indirecta.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\9.Suma mediante dos metodos Indirecta\\Recursividad indirecta.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\9.Suma mediante dos metodos Indirecta\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\9.Suma mediante dos metodos Indirecta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

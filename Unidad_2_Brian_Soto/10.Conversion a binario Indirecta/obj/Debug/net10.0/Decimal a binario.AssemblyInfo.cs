@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Decimal a binario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9e0655aaaf882b1b30d1f744ae8f1a73bdf1d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Decimal a binario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Decimal a binario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\7. Par o impar indirecta\\NumeroparImpar.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\7. Par o impar indirecta\\NumeroparImpar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\7. Par o impar indirecta\\NumeroparImpar.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\7. Par o impar indirecta\\NumeroparImpar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\7. Par o impar indirecta\\NumeroparImpar.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\7. Par o impar indirecta\\NumeroparImpar.csproj",
         "projectName": "NumeroparImpar",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\7. Par o impar indirecta\\NumeroparImpar.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\7. Par o impar indirecta\\NumeroparImpar.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\7. Par o impar indirecta\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\7. Par o impar indirecta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

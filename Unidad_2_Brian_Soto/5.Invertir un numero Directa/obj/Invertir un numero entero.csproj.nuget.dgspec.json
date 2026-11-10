@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\5.Invertir un numero Directa\\Invertir un numero entero.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\5.Invertir un numero Directa\\Invertir un numero entero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\5.Invertir un numero Directa\\Invertir un numero entero.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\5.Invertir un numero Directa\\Invertir un numero entero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\5.Invertir un numero Directa\\Invertir un numero entero.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\5.Invertir un numero Directa\\Invertir un numero entero.csproj",
         "projectName": "Invertir un numero entero",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\5.Invertir un numero Directa\\Invertir un numero entero.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\5.Invertir un numero Directa\\Invertir un numero entero.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\5.Invertir un numero Directa\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_2_Brian_Soto\\5.Invertir un numero Directa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
