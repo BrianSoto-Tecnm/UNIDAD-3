@@ -1,22 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Proyecto1_Clinica
+﻿namespace Proyecto1_Clinica
 {
     public class Cola
     {
         private Nodo frente;
         private Nodo final;
-        public Cola()
+
+        public bool Vacia()
         {
-            frente = null;
-            final = null;
+            return frente == null;
         }
 
         public void Encolar(Paciente paciente)
         {
             Nodo nuevo = new Nodo(paciente);
+
             if (frente == null)
             {
                 frente = nuevo;
@@ -39,26 +36,77 @@ namespace Proyecto1_Clinica
 
             if (frente == null)
                 final = null;
+
             return paciente;
         }
 
-        public void Mostrar ()
+        public int Contar()
+        {
+            int cantidad = 0;
+            Nodo actual = frente;
+
+            while (actual != null)
+            {
+                cantidad++;
+                actual = actual.Siguiente;
+            }
+
+            return cantidad;
+        }
+
+        public bool Eliminar(int expediente)
+        {
+            if (frente == null)
+                return false;
+
+            if (frente.Datos.Expediente == expediente)
+            {
+                frente = frente.Siguiente;
+
+                if (frente == null)
+                    final = null;
+
+                return true;
+            }
+
+            Nodo anterior = frente;
+
+            while (anterior.Siguiente != null)
+            {
+                if (anterior.Siguiente.Datos.Expediente == expediente)
+                {
+                    anterior.Siguiente = anterior.Siguiente.Siguiente;
+
+                    if (anterior.Siguiente == null)
+                        final = anterior;
+
+                    return true;
+                }
+
+                anterior = anterior.Siguiente;
+            }
+
+            return false;
+        }
+
+        public void Mostrar()
         {
             if (frente == null)
             {
-                Console.WriteLine("No hay pacientes registrados en este programa, ya que no se han registrado porque no han querido registrarse.");
+                Console.WriteLine("No hay pacientes.");
                 return;
             }
-            Nodo aux = frente;
-            while (aux != null)
+
+            int posicion = 1;
+            Nodo actual = frente;
+
+            while (actual != null)
             {
-                Console.WriteLine(aux.Datos);
-                aux = aux.Siguiente
+                Console.WriteLine($"{posicion}. {actual.Datos}");
+
+                posicion++;
+                actual = actual.Siguiente;
             }
         }
-
-        public void 
-        
     }
 }
-

@@ -1,19 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Proyecto2_Restaurante
+﻿namespace Proyecto2_Restaurante
 {
     public class Cola
     {
         private Nodo frente;
         private Nodo final;
 
-        public void Encolar (Cliente cliente)
+        public bool Vacia()
+        {
+            return frente == null;
+        }
+
+        public void Encolar(Cliente cliente)
         {
             Nodo nuevo = new Nodo(cliente);
 
-            if(frente == null)
+            if (frente == null)
             {
                 frente = nuevo;
                 final = nuevo;
@@ -35,20 +36,78 @@ namespace Proyecto2_Restaurante
 
             if (frente == null)
                 final = null;
+
             return cliente;
         }
 
-        public void Mostrar()
+        public Cliente Buscar(string nombre)
         {
             Nodo actual = frente;
 
             while (actual != null)
             {
-                System.Console.WriteLine(actual.Datos);
+                if (actual.Datos.Nombre == nombre)
+                    return actual.Datos;
+
+                actual = actual.Siguiente;
+            }
+
+            return null;
+        }
+
+        public bool Eliminar(string nombre)
+        {
+            if (frente == null)
+                return false;
+
+            if (frente.Datos.Nombre == nombre)
+            {
+                frente = frente.Siguiente;
+
+                if (frente == null)
+                    final = null;
+
+                return true;
+            }
+
+            Nodo anterior = frente;
+
+            while (anterior.Siguiente != null)
+            {
+                if (anterior.Siguiente.Datos.Nombre == nombre)
+                {
+                    anterior.Siguiente = anterior.Siguiente.Siguiente;
+
+                    if (anterior.Siguiente == null)
+                        final = anterior;
+
+                    return true;
+                }
+
+                anterior = anterior.Siguiente;
+            }
+
+            return false;
+        }
+
+        public void Mostrar()
+        {
+            if (frente == null)
+            {
+                Console.WriteLine("No hay clientes en espera.");
+                return;
+            }
+
+            int posicion = 1;
+            Nodo actual = frente;
+
+            while (actual != null)
+            {
+                Console.WriteLine($"{posicion}. {actual.Datos}");
+
+                posicion++;
                 actual = actual.Siguiente;
             }
         }
     }
 }
-
-

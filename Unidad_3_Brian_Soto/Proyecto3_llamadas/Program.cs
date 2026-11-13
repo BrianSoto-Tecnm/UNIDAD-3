@@ -1,4 +1,16 @@
-﻿using System;
+﻿// ==================================================================
+// PROYECTO 3. SIMULADOR DE LLAMADAS TELEFONICAS
+// Simula la funcion de llamadas o procesos que deben regresar al
+// estado anterior. Se aumento la simulacion de la llamada a
+// funciones utilizando una pila.
+// Funciones: registrar llamada, atender llamada, finalizar llamada,
+// mostrar llamada, recuperar, buscar y eliminar.
+// Pila de llamadas: 1. Main(), 2. MenuPrincipal(), 3. Registrar
+// Cliente(), 4. BuscarCliente(); al registrar imprime "Registrado
+// de: ...". Esto permite relacionar la pila con el funcionamiento
+// de la memoria de llamadas de metodos.
+// ==================================================================
+using System;
 using System.Collections.Generic;
 using System.Text;
 

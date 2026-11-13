@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora infija-posfija")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9e0655aaaf882b1b30d1f744ae8f1a73bdf1d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9fadeebf3e70b3220ddd2bce198cea0b06d7ab8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora infija-posfija")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora infija-posfija")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

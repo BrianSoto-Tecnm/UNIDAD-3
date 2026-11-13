@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\bin\Debug\net10.0\Calculadora infija-posfija.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\bin\Debug\net10.0\Calculadora infija-posfija.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\bin\Debug\net10.0\Calculadora infija-posfija.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\bin\Debug\net10.0\Calculadora infija-posfija.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\bin\Debug\net10.0\Calculadora infija-posfija.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\bin\Debug\net10.0\Calculadora infija-posfija.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.sourcelink.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\refint\Calculadora infija-posfija.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculadora infija-posfija.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\ref\Calculadora infija-posfija.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto4_Calculadora_infija-posfija\obj\Debug\net10.0\Calculad.89BFDDBF.Up2Date

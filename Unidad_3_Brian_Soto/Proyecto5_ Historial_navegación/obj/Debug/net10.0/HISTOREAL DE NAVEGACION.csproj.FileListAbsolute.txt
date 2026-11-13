@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\bin\Debug\net10.0\HISTOREAL DE NAVEGACION.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\bin\Debug\net10.0\HISTOREAL DE NAVEGACION.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\bin\Debug\net10.0\HISTOREAL DE NAVEGACION.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\bin\Debug\net10.0\HISTOREAL DE NAVEGACION.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\bin\Debug\net10.0\HISTOREAL DE NAVEGACION.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\bin\Debug\net10.0\HISTOREAL DE NAVEGACION.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.sourcelink.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\refint\HISTOREAL DE NAVEGACION.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREAL DE NAVEGACION.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\ref\HISTOREAL DE NAVEGACION.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto5_ Historial_navegación\obj\Debug\net10.0\HISTOREA.0FC9E5A7.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\bin\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\bin\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\bin\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\bin\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\bin\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\bin\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.sourcelink.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\refint\Proyecto1_Sistema_ gestion_clinica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto1_Sistema_ gestion_clinica.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\ref\Proyecto1_Sistema_ gestion_clinica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto1_Sistema_ gestion_clinica\obj\Debug\net10.0\Proyecto.690350E9.Up2Date
